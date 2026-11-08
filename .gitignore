@@ -1,0 +1,23 @@
+# MATLAB autosaves and generated temporary files
+*.asv
+*.m~
+*.slxc
+slprj/
+codegen/
+*.mex*
+
+# MATLAB generated cache / simulation files
+*.log
+*.mdl.r*
+*.slx.autosave
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
